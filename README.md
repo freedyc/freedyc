@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![Metrics](https://github.com/freedyc/freedyc/blob/main/github-metrics.svg)
+
 <!--
 **freedyc/freedyc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
