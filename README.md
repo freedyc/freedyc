@@ -1,11 +1,12 @@
 <!-- ![Metrics](https://github.com/freedyc/freedyc/blob/main/github-metrics.svg) -->
 
 
-### Hi there, I'm Yongchao Deng (邓永超). 
+### Hi there, I'm Yongchao Deng (邓永超).  🤟
 
-I want the freedom of self-discipline.
+➿ I want the freedom of self-discipline.
 
-I want to do something challenging and open source.
+🪴 I want to do something challenging and open source.
+
 
 
 
