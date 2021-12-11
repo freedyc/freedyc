@@ -1,6 +1,13 @@
 <!-- ![Metrics](https://github.com/freedyc/freedyc/blob/main/github-metrics.svg) -->
 
-# Freedom, self-discipline and self-improvement
+
+### Hi there, I'm Yongchao Deng (邓永超). 
+
+I want the freedom of self-discipline.
+
+I want to do something challenging and open source.
+
+
 
 <!--
 **freedyc/freedyc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
